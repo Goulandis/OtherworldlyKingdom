@@ -1,5 +1,8 @@
-# Object file
-*.o
-
-# Ada Library Information
-*.ali
+OtherworldlyKingdom/Intermediate
+OtherworldlyKingdom/Saved
+OtherworldlyKingdom/.vs
+OtherworldlyKingdom/Build
+OtherworldlyKingdom/Binaries
+OtherworldlyKingdom/DerivedDataCache
+OtherworldlyKingdom/Plugins/FastChangeLanguage/Binaries
+OtherworldlyKingdom/Plugins/FastChangeLanguage/Intermediate
