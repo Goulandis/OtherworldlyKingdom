@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\goulandis\\otherworldlykingdom\\insideopencv\\plugins\\gopencv\\source\\gopencv\\private\\gopencv.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\goulandis\\otherworldlykingdom\\insideopencv\\intermediate\\build\\win64\\insideopencveditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\goulandis\\otherworldlykingdom\\insideopencv\\plugins\\gopencv\\intermediate\\build\\win64\\unrealeditor\\development\\gopencv\\definitions.gopencv.h",
+            "e:\\goulandis\\otherworldlykingdom\\insideopencv\\plugins\\gopencv\\source\\gopencv\\public\\gopencv.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

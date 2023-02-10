@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GOpenCV.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Goulandis\OtherworldlyKingdom\InsideOpenCV\Intermediate\Build\Win64\InsideOpenCVEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\Goulandis\OtherworldlyKingdom\InsideOpenCV\Plugins\GOpenCV\Intermediate\Build\Win64\UnrealEditor\Development\GOpenCV\GOpenCV.cpp.obj"
+"E:\Goulandis\OtherworldlyKingdom\InsideOpenCV\Plugins\GOpenCV\Intermediate\Build\Win64\UnrealEditor\Development\GOpenCV\Default.rc2.res"
+/OUT:"E:\Goulandis\OtherworldlyKingdom\InsideOpenCV\Plugins\GOpenCV\Intermediate\Build\Win64\UnrealEditor\Development\GOpenCV\UnrealEditor-GOpenCV.lib"

@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.GOpenCV.cpp.obj": [
+			"GOpenCV.init.gen.cpp.obj",
+			"GOpenCVMediaTool.gen.cpp.obj",
+			"HandPoseRecognition.gen.cpp.obj",
+			"GOpenCVMediaTool.cpp.obj",
+			"HandPoseRecognition.cpp.obj",
+			"GOpenCV.cpp.obj"
+		]
+	}
+}
