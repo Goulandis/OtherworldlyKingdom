@@ -1,0 +1,20 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\git\\otherworldlykingdom\\otherworldlykingdom\\plugins\\daztounreal\\intermediate\\build\\win64\\unrealeditor\\development\\daztounreal\\module.daztounreal.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\git\\otherworldlykingdom\\otherworldlykingdom\\intermediate\\build\\win64\\otherworldlykingdomeditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\git\\otherworldlykingdom\\otherworldlykingdom\\plugins\\daztounreal\\intermediate\\build\\win64\\unrealeditor\\development\\daztounreal\\definitions.daztounreal.h",
+            "d:\\git\\otherworldlykingdom\\otherworldlykingdom\\plugins\\daztounreal\\intermediate\\build\\win64\\unrealeditor\\inc\\daztounreal\\daztounreal.init.gen.cpp",
+            "d:\\git\\otherworldlykingdom\\otherworldlykingdom\\plugins\\daztounreal\\intermediate\\build\\win64\\unrealeditor\\inc\\daztounreal\\daztounrealfactory.gen.cpp",
+            "d:\\git\\otherworldlykingdom\\otherworldlykingdom\\plugins\\daztounreal\\source\\daztounreal\\public\\daztounrealfactory.h",
+            "d:\\git\\otherworldlykingdom\\otherworldlykingdom\\plugins\\daztounreal\\intermediate\\build\\win64\\unrealeditor\\inc\\daztounreal\\daztounrealfactory.generated.h",
+            "d:\\git\\otherworldlykingdom\\otherworldlykingdom\\plugins\\daztounreal\\intermediate\\build\\win64\\unrealeditor\\inc\\daztounreal\\daztounrealsettings.gen.cpp",
+            "d:\\git\\otherworldlykingdom\\otherworldlykingdom\\plugins\\daztounreal\\source\\daztounreal\\public\\daztounrealsettings.h",
+            "d:\\git\\otherworldlykingdom\\otherworldlykingdom\\plugins\\daztounreal\\intermediate\\build\\win64\\unrealeditor\\inc\\daztounreal\\daztounrealsettings.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

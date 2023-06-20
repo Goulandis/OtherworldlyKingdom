@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-DazToUnrealRuntime.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Git\OtherworldlyKingdom\OtherworldlyKingdom\Intermediate\Build\Win64\OtherworldlyKingdomEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Git\OtherworldlyKingdom\OtherworldlyKingdom\Plugins\DazToUnreal\Intermediate\Build\Win64\UnrealEditor\Development\DazToUnrealRuntime\Module.DazToUnrealRuntime.cpp.obj"
+"D:\Git\OtherworldlyKingdom\OtherworldlyKingdom\Plugins\DazToUnreal\Intermediate\Build\Win64\UnrealEditor\Development\DazToUnrealRuntime\Module.DazToUnrealRuntime.gen.cpp.obj"
+"D:\Git\OtherworldlyKingdom\OtherworldlyKingdom\Plugins\DazToUnreal\Intermediate\Build\Win64\UnrealEditor\Development\DazToUnrealRuntime\Default.rc2.res"
+/OUT:"D:\Git\OtherworldlyKingdom\OtherworldlyKingdom\Plugins\DazToUnreal\Intermediate\Build\Win64\UnrealEditor\Development\DazToUnrealRuntime\UnrealEditor-DazToUnrealRuntime.lib"

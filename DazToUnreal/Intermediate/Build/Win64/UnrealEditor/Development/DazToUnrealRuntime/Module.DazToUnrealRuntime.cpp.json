@@ -1,0 +1,34 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\git\\otherworldlykingdom\\otherworldlykingdom\\plugins\\daztounreal\\intermediate\\build\\win64\\unrealeditor\\development\\daztounrealruntime\\module.daztounrealruntime.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\git\\otherworldlykingdom\\otherworldlykingdom\\intermediate\\build\\win64\\otherworldlykingdomeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\git\\otherworldlykingdom\\otherworldlykingdom\\plugins\\daztounreal\\intermediate\\build\\win64\\unrealeditor\\development\\daztounrealruntime\\definitions.daztounrealruntime.h",
+            "d:\\git\\otherworldlykingdom\\otherworldlykingdom\\plugins\\daztounreal\\source\\daztounrealruntime\\private\\animnode_dazmorphdriver.cpp",
+            "d:\\git\\otherworldlykingdom\\otherworldlykingdom\\plugins\\daztounreal\\source\\daztounrealruntime\\public\\animnode_dazmorphdriver.h",
+            "c:\\ue_5.0\\engine\\source\\runtime\\animgraphruntime\\public\\bonecontrollers\\animnode_skeletalcontrolbase.h",
+            "c:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\animation\\inputscalebias.h",
+            "c:\\ue_5.0\\engine\\source\\runtime\\engine\\public\\animation\\animinstanceproxy.h",
+            "c:\\ue_5.0\\engine\\source\\runtime\\engine\\public\\animation\\animsync.h",
+            "c:\\ue_5.0\\engine\\source\\runtime\\engine\\public\\animation\\animsyncscope.h",
+            "c:\\ue_5.0\\engine\\source\\runtime\\engine\\public\\animation\\activestatemachinescope.h",
+            "c:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\activestatemachinescope.generated.h",
+            "c:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\animinstanceproxy.generated.h",
+            "c:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\inputscalebias.generated.h",
+            "c:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\animgraphruntime\\animnode_skeletalcontrolbase.generated.h",
+            "d:\\git\\otherworldlykingdom\\otherworldlykingdom\\plugins\\daztounreal\\intermediate\\build\\win64\\unrealeditor\\inc\\daztounrealruntime\\animnode_dazmorphdriver.generated.h",
+            "d:\\git\\otherworldlykingdom\\otherworldlykingdom\\plugins\\daztounreal\\source\\daztounrealruntime\\private\\dazjointcontrolledmorphaniminstance.cpp",
+            "d:\\git\\otherworldlykingdom\\otherworldlykingdom\\plugins\\daztounreal\\source\\daztounrealruntime\\public\\dazjointcontrolledmorphaniminstance.h",
+            "d:\\git\\otherworldlykingdom\\otherworldlykingdom\\plugins\\daztounreal\\intermediate\\build\\win64\\unrealeditor\\inc\\daztounrealruntime\\dazjointcontrolledmorphaniminstance.generated.h",
+            "c:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetmathlibrary.h",
+            "c:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\kismetmathlibrary.generated.h",
+            "c:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetmathlibrary.inl",
+            "d:\\git\\otherworldlykingdom\\otherworldlykingdom\\plugins\\daztounreal\\source\\daztounrealruntime\\private\\daztounrealruntime.cpp",
+            "d:\\git\\otherworldlykingdom\\otherworldlykingdom\\plugins\\daztounreal\\source\\daztounrealruntime\\public\\daztounrealruntime.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
